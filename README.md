@@ -1,10 +1,9 @@
-# 👋 ¡Hola! Soy Iván
+### Hola, soy Ivan 👋
 
-Soy estudiante de desarrollo de aplicaciones multiplataforma, me encanta la tecnología y crear soluciones útiles.
+Desarrollador junior de software en Toledo (España).
 
-## 🚀 Intereses
-
-- Desarrollo aplicaciones multiplataforma
-- Aplicaciones móviles
-- Inteligencia Artificial
-- Diseño de videojuegos
+- 💻 Java (POO), bases de datos relacionales y SQL
+- 🌐 Frontend y full-stack con React, TypeScript, Node y Supabase
+- 📱 Desarrollo móvil
+- 🤖 Integro IA en mi flujo de trabajo diario
+- 🐧 Usuario de Linux (CachyOS) y macOS
